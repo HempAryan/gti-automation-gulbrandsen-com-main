@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Mick-at-gulbrandsen/gti-automation-gulbrandsen-com#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.16.4"
   }
 }
